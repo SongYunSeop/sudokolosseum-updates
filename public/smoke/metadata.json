@@ -3,10 +3,10 @@
     "platform": "android",
     "nativeVersion": "1.1.2",
     "nativeBuild": "20",
-    "version": "1.1.2-ota.dddddddddddd",
-    "url": "https://sudokolosseum-updates.vercel.app/bundles/1.1.2-ota.dddddddddddd.zip",
-    "checksum": "6fc6a19c9e72daed2a924aa47f9cdd664b45110518dca056fc9686ec0e68316ed5df6d15743aa1eedb475a4b17eac6ed236ab0c929658d7bffffe5bd4aa8a5a8f86b065d8628ce78e973a923ffd33533ed93ea9eb1c76d3541e021d53aec18c82e461e297ecd972d88d76c49ed9c941cf19b8b7b049cc14ee967552f07bab5db643fc3d5c820cfaa095f22af8b7963d4faff540ec675f11e3c8f50a8c1fff07a351433cba599cdbef6ba9ec61490adf6a4cdbaf2e593c609e81e7da42473727341c5975c2464007e0c6c0743c9fa887a27b590153ebcff20604c770fdd61165ce0c6f47aee604092790184be43b1b842c54e6c08966e28294fd72cafbdfe7f47",
-    "sessionKey": "4kqlBEWo1UQauwsG6KTQGQ==:JlKL4tea9r6Ue3bk5asIIdpo4j7sdDpgzxTn45gnTW2pKpimmgg8Or5W2nSLJ890ObG89hLrBBlaphOjNWye3nkePZHhr9isplYE3tooLrcupLR6Sh6KBxnTa0zdkZU3YNqWIkwKNEUeudbZ6fwo8m/apHMqeZMzLhw5gSZtD3O5jk5/Zw8umjMSTuVUAPbBs9WwudFe8F9Bi+UdZmgdnaTr4pe9x7Ty6cVuHVYnL/HGcw/u25CHcSrfN4FMBSrMzzbB/V0OzbnPMlMJkeMFGmlY0dT8fEZrHhZFRq4TibsddDkv6mvRITycUxnhc+fjOQ16hxTYmQMzU6kaozfW2A=="
+    "version": "1.1.2-ota.eeeeeeeeeeee",
+    "url": "https://sudokolosseum-updates.vercel.app/bundles/1.1.2-ota.eeeeeeeeeeee.zip",
+    "checksum": "6dccd03370d8ebfdb546a2acd14fbf9d91b2392e3a84117f8eedd58205d1e6b5f48fce9bbcbb94196d90fcd797853af8423976ba38f0726dba319af12b34c7d6d93f001b04289bbc3da3a4a2871a302293f330217e62ac5bb877e0f4150754db6c2e69c4b60203dfcccb8ee276f1d253f3c85ca0d602346d21703fd7c006cadd8793ac2e97218a74a9beb0c932cb7946512e3a8dfdff79e93b7ad02a16e66b02c88e50d5b2f95c8debf3eaded15ae46dfdc0b5f8f22285ceb4f57867e9a869ceafba7aa7e378751da34d8f898c77c9d2aa2a1d82b3fd9ed56104c3ebf2cc2f7d5091b61f5fa5c4352c9b9260ab7f9137b2cee3c2c20da14fd986c9612e0962f8",
+    "sessionKey": "f6vmq4JcEPeVAEvlBrpGWw==:YaKDte/mpVIYoBrcOz3cE+05UDSHOZYaeQaI7yG1GSQ5+OhpM5Bz3CMoMqFgUxGg0x26tQPmXlM8IkbNyTuMqblweGaF7Ty/Kq05Yqx0qxghsrr/MvOCRo+P7IpdkJa0QgTkFqrsp3HQdTfvxKEtj89MtcG3Nd9iSzYFA5I6RTLAZ3ZecTAG/0Wh52cWjnDFEQV7kTdHdI7GZ0eHN5D/R2RJEO2P2jGebTzOfX9HtTVWZ+of926/LE5A8W9bdU4oGCiWFa+GPHhVau8K5JTOXXjyyh5RjRMMrUhuui/vvUGsLJa5bbppAk7rOzzxle7lHt/lwv6DxO67mrYoOkKIQw=="
   },
   "broken": {
     "platform": "android",
