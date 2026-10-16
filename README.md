@@ -7,7 +7,8 @@ Application source and signing private keys are maintained separately.
 - `null` or a missing manifest means no update is offered.
 - Files in `public/bundles` are signed/encrypted with the application's Capgo v2 key.
 - No source maps, credentials, user data, or native app binaries belong here.
-- `smoke/` files are synthetic verification fixtures, never production updates.
+- Production manifests and the retired iOS smoke profile (`ios/0.0.0/1.json`) return `null`.
+- Synthetic smoke metadata and bundles were removed from the active deployment after iOS rollback verification on 2026-10-16. They remain recoverable in Git history; never publish them as application updates.
 - Vercel serves only `public/`. Deployment is manual; a Git push alone does not activate an update.
 
 Bundled JavaScript remains inspectable by installed clients; encryption verifies origin and integrity, not permanent source secrecy.
