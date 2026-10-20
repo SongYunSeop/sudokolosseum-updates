@@ -1,1 +1,9 @@
-null
+{
+  "platform": "ios",
+  "nativeVersion": "1.1.3",
+  "nativeBuild": "16",
+  "version": "1.1.3-ota.8314db0118a5",
+  "url": "https://sudokolosseum-updates.vercel.app/bundles/1.1.3-ota.8314db0118a5.zip",
+  "checksum": "85d6f19912e9cdba1f9addde63dec377f3d153030d9b1ee72089e4bc52451b94397c1fe0db6c6d09758bda40420d492b0d535ddb11568703769347bc6ac89ca1ee825416e886c081336e15e9727b5c1b3df7ec38c7df56e85ca6bf752b3df2305f25e66e917398f700c3b5999f578fc5b4c2b088153faadef0ed2a7b7396bc413cb76fa130f280863292e6a93072c7babf20b863c605512a2b372f3da3f89d227f40b75f027172f7574a3ec3549f65808140e6f4e360dc31982a595d17c9dc4fe69bab9afe8d6a09ace124cce2fcaa81e9a83629467b5176831f2d09d6d8ad24513848d7afa3776fe794729f4c1d44cab21e98fa2676d98461fa1b0559837848",
+  "sessionKey": "YJoiwIfVAhVYbv0B9lz6uw==:pAiYXNropehIsPHV+4oTMVa7Xz62yoy6vf1MYZUHeHbR+LW3Lactk5/quAfQUZY9DJzuVowON25CnPHM1ivA0OOe/1I0hrMhYR/VY6wzIQMFkd2n/kk6gx6OAeCTpOFYNXoYIzg0kQLSLdgbD4T5+9PeZHnsh2mqaQTIj5rhbSCa4d0XLvzECe2IprEnLM5zu/uCFiDK3YdxmJp2zK9lkYLlbdxS1dDmfGl/kdHpvVPbBpnvQPhPKNbyMf4xbm20iVO8nJtQVaYpCYlmZYTuh8E1Q0HUg+ORfSOD9oUya+5tpGaxehXd7DhKTdhbNKa5zMn2JQisRm/tU1317IpLHA=="
+}
